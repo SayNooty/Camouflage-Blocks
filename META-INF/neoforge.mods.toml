@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT License"
+
+[[mods]]
+modId="camouflage_blocks"
+version="0.0.1"
+displayName="Camouflage blocks"
+displayURL="https://modrinth.com/user/SayNooty"
+logoFile="logo.png"
+credits="Thanks for playing with this mod :) More content is coming!"
+authors="SayNooty"
+description="The mod adds camouflage blocks: stairs, slabs, fences, gates, walls, glass panels, doors and trapdoors from blocks that cannot be made in ordinary minecraft."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.camouflage_blocks]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.65,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.camouflage_blocks]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
