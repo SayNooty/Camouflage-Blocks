@@ -1,7 +1,9 @@
 ![CAMOUFLAGE BLOCKS](https://cdn.modrinth.com/data/cached_images/bf6449aee2aeed9ac7e208e62b899cc471824284.png)
 
 ### The mod adds camouflage blocks that can be used among minecraft vanilla blocks to merge with textures.
-Camouflage blocks with old textures of old versions of Minecraft are still in fashion. The mod was designed exclusively for creative mode, but now it can be used in survival! A little information about the mod in survival mode is below.
+The mod was designed exclusively for creative mode, but now it can be used in survival! A little information about the mod in survival mode is below.
+#
+I really ask people who understand Java to help with coding the mod to implement complex functions!
 #
 What block models will you see in the game:
 
